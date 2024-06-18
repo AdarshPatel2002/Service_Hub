@@ -98,5 +98,5 @@ Service Hub is a comprehensive web application designed to simplify the process 
 
 ## Contact
 
-- **Team Member**: Hemant Maurya ,Darshit Yadav, Adarsh Patel 
-- **Project Link**: [https://github.com/thehemant018/Service_Hub.git]
+- **Team Member**: Adarsh Patel, Hemant Maurya ,Darshit Yadav 
+- **Project Link**: https://github.com/AdarshPatel2002/Service_Hub
